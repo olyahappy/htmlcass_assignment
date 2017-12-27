@@ -1,0 +1,84 @@
+
+* {
+	box-sizing: border-box;
+}
+
+html {
+	font-size: 10px;
+}
+
+body {
+	background-image: url('picture.png');
+	font-family: 'Raleway', sans-serif;
+	-webkit-font-smoothing: antialiased;
+	margin: 0;
+	text-transform: uppercase;
+	letter-spacing: .02em;
+	text-align: center;
+	color: black;
+	margin-right: 500px;
+}
+.container {
+	    display: inline-flex;
+    flex-direction: row;
+    max-width: 1000px;
+    width: 89%;
+    margin: 162px;
+    margin-top: 15px;
+    margin-bottom: 12px;
+    padding: 23px 10px;
+    outline: 0;
+
+}
+h1 {
+	font-size: 25px;
+	color: white;
+	text-align: center;
+	    margin-left: 380px;
+}
+
+
+
+
+
+
+.form3 {
+    margin-top: 15px;
+	    max-width: 260px;
+}
+
+.form2 {
+	margin-top: -10px;
+	background-color: #b2b2b2;
+  background-color: rgba(0, 0, 0, .3);
+      margin-top: -36px;
+        border: 2px solid #44545E;
+}
+
+
+
+input {
+    border: 2px solid #44545E;
+    margin-bottom: 12px;
+    padding: 10px 10px;
+    outline: 0; 
+    width: 250px;
+}
+#submit {
+width: 250px;
+padding:10px;
+border-radius:5px;
+outline:0px;
+background-color: orange;
+
+}
+.form1 {
+margin-left: 73px;
+background-color: #b2b2b2;
+  background-color: rgba(0, 0, 0, .3);
+    border: 2px solid #44545E;
+        max-width: 260px;
+}
+
+
+
